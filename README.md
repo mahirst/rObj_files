@@ -11,3 +11,4 @@ Methods:
 1. Download the publicly available .rObj data file from Dryad: https://datadryad.org/stash/dataset/doi:10.5061/dryad.4tmpg4fhd
 2. Edit the R script working directory to match the working directory where you downloaded the .rObj file.
 3. Run the R script. In this example, the object of interest is named "bs".
+4. The end of the R file will generate and export a tabular data file (CSV) to the same working directory as the rObj file, making the contents of the .rObj easier to view.
