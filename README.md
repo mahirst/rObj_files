@@ -1,5 +1,5 @@
 # rObj_files to CSV
-### R script to view contents of .rObj files with an open-access Dryad dataset as an example
+### R script to transform contents of .rObj files into CSV files, with an open-access Dryad dataset as an example
 
 Software:
 * RStudio 2024.04.1+748 "Chocolate Cosmos" Release (3ada7c6ddc8fcdb86a727a4f0ae467b9d9a7296c, 2024-05-06) for macOS
